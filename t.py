@@ -14,3 +14,4 @@ thang = int(input("Nhập tháng: "))
 
 so_ngay = tinh_so_ngay_trong_thang(nam, thang)
 print("Số ngày trong tháng là:", so_ngay)
+print("Them mot dong in ra man hinh de test cau lenh git diff")
